@@ -85,7 +85,7 @@ and test code within seconds.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/RanitManik/CodeSnap.git
+    git clone https://github.com/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform.git
     cd CodeSnap
     ```
 

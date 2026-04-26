@@ -19,8 +19,8 @@ export const metadata: Metadata = {
     keywords:
         "CodeSnap, code sharing, code execution, snippets, instant code sharing, developers, programming, run code, share code, code snippets, coding tools",
     authors: {
-        name: "Ranit Manik",
-        url: "https://github.com/RanitManik",
+        name: "Patel Dhriti",
+        url: "https://github.com/pateldhriti",
     },
     metadataBase: new URL("https://codesnap.pro/"),
     openGraph: {

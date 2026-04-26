@@ -3,20 +3,20 @@
   <h1>CodeSnap – Create, Run & Share Code Snippets</h1>
   <a href="https://codesnap.pro/">View Demo</a>
   ·
-  <a href="https://github.com/RanitManik/CodeSnap/issues/new?assignees=&labels=&projects=&template=bug_report.yml&title=">Report Bug</a>
+  <a href="https://github.com/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform/issues/new">Report Bug</a>
   ·
-  <a href="https://github.com/RanitManik/CodeSnap/issues/new?assignees=&labels=&projects=&template=feature_request.yml&title=">Request Feature</a>
+  <a href="https://github.com/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform/issues/new">Request Feature</a>
   <br/>  
   <br/>
 
 ![excited](https://github.com/user-attachments/assets/48f47285-cfe2-41db-8b50-a6a57987c6e9)
 
-![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/CodeSnap)
-![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/CodeSnap)
-![GitHub License](https://img.shields.io/github/license/RanitManik/CodeSnap)
-![GitHub stars](https://img.shields.io/github/stars/RanitManik/CodeSnap?style=default)
-![GitHub forks](https://img.shields.io/github/forks/RanitManik/CodeSnap?style=default)
-![Wakatime](https://wakatime.com/badge/github/RanitManik/CodeSnap.svg)
+![GitHub Created At](https://img.shields.io/github/created-at/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform)
+![GitHub repo size](https://img.shields.io/github/repo-size/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform)
+![GitHub License](https://img.shields.io/github/license/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform)
+![GitHub stars](https://img.shields.io/github/stars/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform?style=default)
+![GitHub forks](https://img.shields.io/github/forks/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform?style=default)
+![Wakatime](https://wakatime.com/badge/github/pateldhriti/CodeSnap-Full-Stack-Code-Sharing-Platform.svg)
 
 </div>
 
